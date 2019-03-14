@@ -191,7 +191,7 @@ log(handleRequest) {
 }
 ```
 
-Inside the `log()` function we check for the platform, the `Default Fallback Intent`,add the user's utterance to the output, log the whole string and reset it back to and empty string.
+Inside the `log()` function we check for the platform, the `Default Fallback Intent`, add the user's utterance to the output, log the whole string and reset it back to and empty string.
 
 ```javascript
 log(handleRequest) {
